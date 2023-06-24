@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Network Engineer and developer enthusiast of learning new skills. \
+💡 &nbsp; I'm a Tutor and developer enthusiast of learning new skills. \
 💻 &nbsp;I'm currently pursuing BSc. CSIT from TU affiliated college MAdan Bhandari Memorial College.\
 🎓&nbsp;I acomplished my Positive Psychiatry and Mental Health course (Batch of 2019)\
 🌱 &nbsp;I'm on track for learning more about PHP, JS, 3D modeling and construction, GIS(Geographic Information System) and Supervision.\
