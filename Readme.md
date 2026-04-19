@@ -13,6 +13,6 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/saileshsingh36/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+
 <a href="mailto:sailescsit2076_33@mbmcsit.edu.np"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/saileshsingh36"><img src="https://img.shields.io/badge/-@saileshsingh36_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
